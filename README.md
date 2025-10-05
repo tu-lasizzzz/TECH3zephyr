@@ -51,7 +51,7 @@ This project recreates the original UI shown in the challenge PDF using **only H
 ---
 '''
 ## 📁 Folder Structure
-frontend-battle/
+TECH3zephyr/
 ├── index.html
 ├── README.md
 └── assets/
@@ -77,7 +77,7 @@ frontend-battle/
 
 Special thanks to:
 
-- **Frontend Battle** team for organizing the challenge.
+- **TECH3zephyr** team for organizing the challenge.
 - Developers behind **Tailwind CSS**, **Swiper.js**, **Chart.js**, and **AOS** for providing open-source tools.
 - Image and avatar sources: [Unsplash](https://unsplash.com/) and [RandomUser.me](https://randomuser.me/)
 
