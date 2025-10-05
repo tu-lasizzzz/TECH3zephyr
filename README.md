@@ -84,7 +84,7 @@ Special thanks to:
 ---
 
 ## 👤 Author:
--**Ctrl+Alt+Elite**
+🧠💻 Team: Ctrl + Alt + Elite ⚡
   
 -**TEAM MEMBERS**:
   
