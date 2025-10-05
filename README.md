@@ -83,17 +83,16 @@ Special thanks to:
 
 ---
 
-## 👤 Author
-
-- **Name**: TULASI SAHU
-- **Email**: [tulasisahu20@gmail.com](tulasisahu20@gmail.com)  
-- **GitHub**: [tu-lasizzz](https://github.com/tu-lasizzzz)
+## 👤 Author:
+-**Ctrl+Alt+Elite**
   
 -**TEAM MEMBERS**:
   
   ABHISEK DAS[TEAM LEADER]:[abhisekdas9399@gmail.com](abhisekdas9399@gmail.com)
   
   SWATI SAGARIKA:[swatisagarikasital@gmail.com](swatisagarikasital@gmail.com)
+
+  TULASI SAHU:[tulasisahu20@gmail.com](tulasisahu20@gmail.com)
   
   MANORANJAN SAHOO:[sahoo.mamata862@gmail.com](sahoo.mamata862@gmail.com)
   
