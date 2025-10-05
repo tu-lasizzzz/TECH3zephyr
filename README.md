@@ -7,7 +7,7 @@ This project recreates the original UI shown in the challenge PDF using **only H
 
 ## 🌐 Live Preview
 
-🔗 [Click to see deployment]()
+🔗 [Click to see deployment](https://tu-lasizzzz.github.io/TECH3zephyr/)
 
 ---
 
